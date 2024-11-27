@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: minimal-api [https]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\minimal-api.csproj",
+            "launchConfigurationId": "TargetFramework=;https"
+        }
+    ]
+}
